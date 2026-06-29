@@ -1,0 +1,15 @@
+{
+  "name": "@youchaoyun/plugin-login-settings",
+  "version": "1.5.0-beta.33",
+  "main": "dist/server/index.js",
+  "displayName": "Login settings",
+  "displayName.zh-CN": "登录设置",
+  "description": "Rich login page settings, such as layout, background image, etc.",
+  "description.zh-CN": "丰富的登录页面设置，如布局、背景图等。作者：有巢数智",
+  "dependencies": {},
+  "peerDependencies": {
+    "@nocobase/client": "1.x",
+    "@nocobase/server": "1.x",
+    "@nocobase/test": "1.x"
+  }
+}
