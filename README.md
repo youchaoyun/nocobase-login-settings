@@ -62,4 +62,4 @@ NocoBase `2.x` 版本插件可通过文档末尾处联系方式联系我们
 
 有巢数智持续沉淀 NocoBase 企业级插件与扩展能力，更多插件请查看：
 
-[更多 NocoBase 插件扩展](https://docs.youchaoyun.com/cn/infrastructure/nocobase_plugin_extension/)
+[更多 NocoBase 插件扩展](https://docs.youchaoyun.com/cn/infrastructure/plugin_extension/)
